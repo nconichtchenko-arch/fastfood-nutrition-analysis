@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==2.0.2
+matplotlib==3.10.0
+seaborn==0.13.2
+scipy==1.15.3
+sqlalchemy==2.0.41
+psycopg2-binary==2.9.10
+plotly==6.0.1
+panel==1.7.3
+pyngrok==7.2.12
+jupyter_bokeh==4.0.5
