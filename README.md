@@ -90,6 +90,7 @@
 | Всего ресторанов | 9 |
 
 ## 📁 Структура репозитория
+```
 fastfood-nutrition-analysis/
 │
 ├── data/
@@ -105,3 +106,4 @@ fastfood-nutrition-analysis/
 │
 ├── README.md
 └── requirements.txt
+```
